@@ -1,5 +1,5 @@
 # AI PCAP Analyst — Network Forensics Enhancements
-> Built by [cybersecbella](https://cybersecbella.com) |
+> Built by [cybersecbella]([https://www.cybersecbella.com/articles/pcap_analyst/]) |
 > Fork of [secdev/scapy](https://github.com/secdev/scapy)
 
 A network forensics pipeline built on top of Scapy. Detects BGP hijacking, C2 beaconing, DNS exfiltration, and suspicious traffic patterns — then exports findings to TheHive with plain-English AI-generated threat narratives.
@@ -150,4 +150,4 @@ scapy/
 
 ## Blog writeups
 
-Full walkthroughs at [cybersecbella.com](https://cybersecbella.com)
+Full walkthroughs at [cybersecbella.com](https://www.cybersecbella.com/articles/pcap_analyst/)
